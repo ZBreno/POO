@@ -39,3 +39,4 @@ class Estoque:
                 return self.__produtos[i]
             elif(cont == len(self.__produtos)):
                 return 0
+#comentario
